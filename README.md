@@ -13,11 +13,6 @@ The Jurombee Business Case Study is designed to analyze key business metrics, tr
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Ensure you have the following installed:
-- Python 3.10+
-- Jupyter Notebook or VSCode
-- Required libraries (install using requirements.txt)
 
 ### Installation
 1. Clone the repository:
