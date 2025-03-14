@@ -9,27 +9,6 @@ The Jurombee Business Case Study is designed to analyze key business metrics, tr
 - Operational improvements
 - Strategic growth opportunities
 
-
-
-## 🚀 Getting Started
-
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ShreyNaik123/jurombee-case-study.git
-   cd jurombee-case-study
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Open the `notebooks/` folder to explore the analysis steps.
-
 ## 📊 Analysis Process
 1. **Data Understanding:**
    - Explored the provided data to identify key features and metrics.
